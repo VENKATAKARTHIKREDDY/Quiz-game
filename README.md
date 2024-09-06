@@ -24,8 +24,3 @@ This is a simple Python quiz game that tests your knowledge about basic computer
 
 You need Python 3 installed to run this project.
 
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/VENKATAKARTHIKREDDY/quiz-game.git 
